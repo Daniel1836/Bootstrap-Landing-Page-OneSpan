@@ -84,8 +84,6 @@ p     {
         margin-left: auto;
         margin-right: auto;
         display: block;
-        position:relative;
-        left:26px;
     }
     
     .footer {
@@ -131,7 +129,7 @@ p     {
     padding-top:30px;
 }
 
-.vid {
+.viddiv {
     margin-top:40px;
 }
 
@@ -176,8 +174,7 @@ p     {
 }
 
 .enterprise {
-    padding-left:90px;
-    padding-bottom:100px;
+    padding: 0px 0px 100px 90px;
 }
 
 .bankimage {

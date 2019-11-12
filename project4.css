@@ -3,10 +3,6 @@
     margin:0;
 }
 
-body {  
-     overflow-x:hidden !important;
-}
-
 li {
     list-style: none;
 }
@@ -17,7 +13,7 @@ li {
     font-weight: bold;
     font-size: 14px;
     font-weight: 600;
-    padding-top:45px !important;
+    padding-top:45px;
    }
 
 .logo {
@@ -62,9 +58,9 @@ li {
     background-color: #F9681B;
     color: #fefefe;
     min-width: 10rem;
-    font-size: 18px !important;
-    border-radius: 35px !important;
-    padding: 10px 30px !important;
+    font-size: 18px;
+    border-radius: 35px;
+    padding: 10px 30px;
     border-color: #F9681B;
 }
 
@@ -100,12 +96,12 @@ p     {
     .card-text {
         text-align:center;
         min-width:200px;
-        max-height:80px !important;
+        max-height:80px;
         
     }
 
     i {
-         padding:0px 20px 20px 0px !important;
+         padding:0px 20px 20px 0px;
     }
 
     .navbar-brand {
@@ -168,19 +164,19 @@ p     {
     background-color: #F9681B;
     color: #fefefe;
     min-width: 10rem;
-    font-size: 18px !important;
-    border-radius: 35px !important;
-    padding: 10px 30px !important;
+    font-size: 18px;
+    border-radius: 35px;
+    padding: 10px 30px;
     border-color: #F9681B;
 }
 
 .enterprisepar { 
-    max-width:700px !important;
+    max-width:700px;
     padding: 30px 0px 50px 0px;
 }
 
 .enterprise {
-    padding-left:90px !important;
+    padding-left:90px;
     padding-bottom:100px;
 }
 
@@ -259,14 +255,10 @@ p     {
     color:white;
 }
 
-i {
-     padding:0px 20px 20px 0px !important;
-}
-
 .icons {
     text-align:center;
     color:white;
-    padding: 0px 0px 15px 75px !important;
+    padding: 0px 0px 15px 75px;
 }
 
 .footer3 { 
@@ -276,7 +268,7 @@ i {
  }
  .footerlinks > li {
      display:inline;
-        padding-left:15px !important;
+        padding-left:15px;
         color:white;
         text-decoration:underline;
     }
@@ -290,7 +282,7 @@ i {
     }
 
     .accounth1 {
-        color: #331c86 !important;
+        color: #331c86;
     }
     
 .accountimg {
@@ -327,9 +319,9 @@ i {
     margin-bottom:20px;
 }
 .card{
-    display:block !important;
-    margin: 0 auto !important;
-    margin-bottom:25px !important;
+    display:block;
+    margin: 0 auto;
+    margin-bottom:25px;
 }
 .list1 { 
     padding-top:25px;

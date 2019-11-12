@@ -258,8 +258,7 @@ p     {
 
 .footer3 { 
     border-bottom: white solid 1px;
-    margin-bottom:150px;
-    margin-top:50px;
+    margin: 50px 0px 150px 0px;
  }
  .footerlinks > li {
      display:inline;
@@ -277,7 +276,7 @@ p     {
     }
 
     .accounth1 {
-        color: #331c86;
+        color: #331c86 !important;
     }
     
 .accountimg {

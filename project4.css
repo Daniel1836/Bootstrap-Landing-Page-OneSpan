@@ -198,8 +198,6 @@ p     {
  }
 
  .cardimg {
-     position:relative; 
-     right:-28px;
     min-height:100px;
 }
 

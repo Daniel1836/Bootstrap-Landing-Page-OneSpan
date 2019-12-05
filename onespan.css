@@ -39,7 +39,7 @@ li {
     width:100%;
     background-size:cover;
 }
- .accounth1 {
+ .accountheader {
     color: #331c86 !important;
 }
 .accountimg {
@@ -60,7 +60,7 @@ h1 {
     font-size: 25px !important;
     line-height: 1px;
 }
-.button1 {   
+.mainbutton {   
      border-style: solid;
     border-width: 2px;
     background-color: #F9681B;
@@ -94,16 +94,16 @@ p {
     background-color: #331C86;
     position:relative;
     }
-.videoh1{ 
+.videoheader{ 
     text-align:left;
 }
-.videopara {
+.videoinner {
     color:white;
 }
-.videocont {
+.videotextdiv {
     padding-top:30px;
 }
-.enterprisepar { 
+.banktext { 
     max-width:700px !important;
     padding: 30px 0px 30px 0px;
 }
@@ -111,7 +111,7 @@ p {
     width:200px;
     padding-left:80px;
 }
-.bankcol { 
+.bankdiv { 
     height: 150px;
 }
 .cloudimg {
@@ -122,14 +122,14 @@ p {
     background-color: #5940C3;
     padding: 30px 0px 30px 0px;
 }
-.cloudh1 {
+.cloudheader {
     color:white;
     text-align:left;
 }
-.cloudh2 {
+.cloudinner {
     color:white;
 }
-.cloudpara {
+.cloudtext {
     color:white;
 }
 .cardimg {
@@ -139,7 +139,7 @@ p {
     margin-right: auto;
     display: block;
 }
-.cardh2 {
+.cardheader {
     color:#331c86;
     text-align:center;
 }
@@ -172,7 +172,7 @@ p {
     font-weight:540;
     text-align:center;
   }
-.bottomfooter {
+.footersection  {
     background-color:#5940C3;
     padding: 30px 30px 40px 30px;
 }
@@ -188,7 +188,7 @@ p {
  width:130px;
  height:50px;
 }
-.cbutton {
+.contactbtndiv {
     margin-top:20px;
 }
 .footerlinks, .rights { 
@@ -204,7 +204,7 @@ text-align:center;
 color:white;
 padding: 0px 0px 15px 0px !important;
 }
-.footer3 { 
+.footerborder { 
 border-bottom: white solid 1px;
 padding-top:30px;
 }
@@ -226,17 +226,17 @@ padding-top:30px;
 .innerimg {
     padding-top:30px;
 }
-.vidcont {
+.viddiv {
     position:relative;
 }
-.vid {
+.video {
     position:absolute;
     top:22px;
 }
-.cardh2 {padding-top:30px;
+.cardheader {padding-top:30px;
 }
 
-.cardcont {
+.carddiv {
     padding-top:30px;
 }
 .navbar {
@@ -254,7 +254,7 @@ padding-top:30px;
         display:block;
         margin: 0 auto;
     }
-    .vid {
+    .video {
         max-width:310px;
         text-align:center;
         display:block;
@@ -281,7 +281,7 @@ padding-top:30px;
     .blogsection{
         height:1700px;
     }
-    .cbutton {
+    .contactbtndiv {
         padding-bottom:20px;
     }
     .menulist{
@@ -298,14 +298,14 @@ padding-top:30px;
     left:15;
     margin-top:10px !important;
     }
-    .footertop{
+    .footerlogobtn{
         position:absolute;
         left:35px;
     } 
-    .footer2{
+    .footerdiv{
         position:relative;
     }
-    .videocont{
+    .videotextdiv{
         position:absolute;
         top:250px;
     }
@@ -315,7 +315,7 @@ padding-top:30px;
         display:block;
         margin: auto;
     }
-    .vid {
+    .video {
         display:block;
         margin: 0 auto;
         padding-top:30px;
@@ -347,7 +347,7 @@ padding-top:30px;
     left:15;
     margin-top:10px !important;
     }
-    .videocont{
+    .videotextdiv{
         position:absolute;
         top:330px;
     }
@@ -374,11 +374,11 @@ padding-top:30px;
     .cloudimg {
         width:310px;
     }
-    .videocont{
+    .videotextdiv{
         position:absolute;
         left:60px;
     }
-    .accountcol {
+    .accounttext {
         position:absolute;
         left:60px;
     }

@@ -309,6 +309,10 @@ padding-top:30px;
         position:absolute;
         top:250px;
     }
+    .bank {
+     position:relative;
+     left:-60px;
+    }
 }
 @media (min-width:767px) and (max-width:993px) {  /*tablet view*/
     .accountimg {
